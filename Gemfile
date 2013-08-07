@@ -8,5 +8,6 @@ gem 'bcrypt-ruby'
 group :test, :development do
   gem "rspec-rails", "~> 2.0"
   gem 'capybara'
+  gem 'launchy'
 end
 
